@@ -1,9 +1,9 @@
 #include <ESP8266WiFi.h>
 #include <ThingerESP8266.h>
 
-#define USERNAME "sbossard14"
-#define DEVICE_ID "esp8266Garage"
-#define DEVICE_CREDENTIAL "ks$mqRXZxLyf"
+#define USERNAME "************"
+#define DEVICE_ID "************"
+#define DEVICE_CREDENTIAL "************"
 
 #define SSID "**********"
 #define SSID_PASSWORD "*************"
